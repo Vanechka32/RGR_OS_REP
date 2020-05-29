@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Иван\source\repos\Prod_Cons\Prod_Cons\Source.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Prod_Cons.vcxproj -> C:\Users\Иван\source\repos\Prod_Cons\Debug\Prod_Cons.exe
